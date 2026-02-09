@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tuinontwerp op maat — Jardin de Monchy | Nieuwkoop, Mijdrecht & De Ronde Venen</title>
+  <meta name="description" content="Professioneel tuinontwerp van eerste schets tot beplantingsplan. Tuinontwerper en hovenier Marlous de Monchy werkt in Woerdense Verlaat, Nieuwkoop, Mijdrecht, Vinkeveen, Wilnis en omgeving Utrecht.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://jardindemonchy.nl/tuinontwerp.html">
+  <meta property="og:title" content="Tuinontwerp op maat — Jardin de Monchy">
+  <meta property="og:description" content="Professioneel tuinontwerp van eerste schets tot beplantingsplan.">
+  <meta property="og:image" content="https://jardindemonchy.nl/images/og-image.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="stylesheet" href="jardin.css">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav id="nav" class="always-visible">
+    <a href="/" class="logo-link">
+      <img src="/images/logo/jardin-de-monchy-logo.png" alt="Jardin de Monchy" class="logo-img">
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="/">Home</a></li>
+      <li><a href="/tuinontwerp.html" class="active">Tuinontwerp</a></li>
+      <li><a href="/inspiratiesessie.html">Inspiratiesessie</a></li>
+      <li><a href="/beplantingsadvies.html">Beplantingsadvies</a></li>
+      <li><a href="/tuinadvies.html">Tuinadvies</a></li>
+      <li><a href="/portfolio.html">Portfolio</a></li>
+      <li><a href="/over-mij.html">Over mij</a></li>
+      <li><a href="/contact.html">Contact</a></li>
+    </ul>
+    <div class="nav-toggle" onclick="toggleNav()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
+
+  <!-- Page Hero -->
+  <section class="page-hero page-hero-tuinontwerp">
+    <h1>Jouw droomtuin begint hier</h1>
+    <p>Een goed tuinontwerp is de basis voor een tuin waar je jarenlang plezier van hebt.</p>
+  </section>
+
+  <!-- Content -->
+  <section class="page-content">
+    <div class="page-content-inner">
+      
+      <!-- Intro with image -->
+      <div class="page-intro-with-image">
+        <div class="page-intro-text">
+          <p class="lead">Bij Jardin de Monchy combineer ik jouw wensen met mijn expertise tot een ontwerp dat past bij jouw leven én bij de mogelijkheden van de tuin.</p>
+          <p>Of je nu droomt van weelderige borders, een strakke moderne tuin of een meer romantische sfeer: ik vertaal jouw ideeën naar een doordacht ontwerp waarin alles klopt en samenkomt.</p>
+        </div>
+        <div class="page-intro-image">
+          <picture>
+            <source media="(min-width: 1920px)" srcset="/images/gallery/responsive/large/wilgenboog-toegang-moestuin-rustiek-hekje.webp">
+            <source media="(min-width: 768px)" srcset="/images/gallery/responsive/medium/wilgenboog-toegang-moestuin-rustiek-hekje.webp">
+            <img src="/images/gallery/responsive/small/wilgenboog-toegang-moestuin-rustiek-hekje.webp" alt="Wilgenboog moestuin - tuinontwerp Woerdense Verlaat en Nieuwkoop" loading="lazy">
+          </picture>
+        </div>
+      </div>
+
+      <h2>Werkwijze</h2>
+      
+      <div class="werkwijze">
+        <div class="werkwijze-step">
+          <div class="step-number">1</div>
+          <div>
+            <h4>Kennismaking en klik</h4>
+            <p>Vooraf ontvang je van mij een vragenlijst en vraag ik je om een moodboard te maken. Daarna kom ik bij je langs om kennis te maken met jullie én met de tuin. Is er een klik en hebben we hetzelfde enthousiasme? Dan stuur ik een offerte en kan het feest beginnen.</p>
+          </div>
+        </div>
+        
+        <div class="werkwijze-step">
+          <div class="step-number">2</div>
+          <div>
+            <h4>Analyse en eerste schetsen</h4>
+            <p>Ik begin met het analyseren van de tuin en de omgeving. Hoe valt de zon, hoe is de grond, welke lijnen en structuren zijn er al? Minstens zo belangrijk: wie wonen er, hoe wordt de tuin gebruikt en wat wil je eruit halen? Pas daarna pak ik mijn schetspapier erbij.</p>
+          </div>
+        </div>
+        
+        <div class="werkwijze-step">
+          <div class="step-number">3</div>
+          <div>
+            <h4>Feedback (of niet 😉)</h4>
+            <p>We nemen het schetsontwerp samen door. Dit is hét moment om aan te geven wat er goed voelt en waar je misschien nog iets mist. En soms… is het gewoon meteen helemaal goed.</p>
+          </div>
+        </div>
+        
+        <div class="werkwijze-step">
+          <div class="step-number">4</div>
+          <div>
+            <h4>Definitief ontwerp</h4>
+            <p>Ik ga terug naar de tekentafel en werk het plan verder uit. Je ontvangt een compleet ontwerp met materialenoverzicht, verlichtingsplan, beplantingsplan én een moodboard om alvast in de sfeer te komen.</p>
+          </div>
+        </div>
+        
+        <div class="werkwijze-step">
+          <div class="step-number">5</div>
+          <div>
+            <h4>Aanleg en de finishing touch</h4>
+            <p>Als de tuin door de hovenier wordt aangelegd, vind ik het zelf het allerleukste om de vaste planten in de grond te zetten. Met mijn handen in de aarde help ik graag mee om de tuin écht tot leven te brengen.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Resultaat beeld -->
+      <div class="content-image-single">
+        <picture>
+          <source media="(min-width: 1920px)" srcset="/images/gallery/responsive/large/roze-oranje-dahlias-bloeiend-zomertuin.webp">
+          <source media="(min-width: 768px)" srcset="/images/gallery/responsive/medium/roze-oranje-dahlias-bloeiend-zomertuin.webp">
+          <img src="/images/gallery/responsive/small/roze-oranje-dahlias-bloeiend-zomertuin.webp" alt="Dahlia border - tuinarchitect Mijdrecht Noordse Dorp" loading="lazy">
+        </picture>
+      </div>
+
+      <div class="features-box">
+        <h3>Wat krijg je?</h3>
+        <ul>
+          <li>Een helder tuinontwerp dat laat zien hoe alles samenkomt: van indeling tot looplijnen</li>
+          <li>Sfeerimpressies en visualisaties die het ontwerp tot leven brengen</li>
+          <li>Advies over materialen en kleuren die rust en samenhang brengen</li>
+          <li>Een doordacht beplantingsplan met bijpassende plantenlijst (optioneel)</li>
+        </ul>
+      </div>
+
+      <div class="cta-box">
+        <p>Klaar om te beginnen?</p>
+        <a href="/contact.html">Neem contact op</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-top">
+        <div class="footer-logo-section">
+          <img src="/images/logo/jardin-de-monchy-logo.png" alt="Jardin de Monchy" class="footer-logo-img">
+          
+        </div>
+        
+        <div class="footer-nav">
+          <div class="footer-nav-column">
+            <h4>Diensten</h4>
+            <ul>
+              <li><a href="/tuinontwerp.html">Tuinontwerp</a></li>
+              <li><a href="/inspiratiesessie.html">Inspiratiesessie</a></li>
+              <li><a href="/beplantingsadvies.html">Beplantingsadvies</a></li>
+              <li><a href="/tuinadvies.html">Tuinadvies</a></li>
+            </ul>
+          </div>
+          <div class="footer-nav-column">
+            <h4>Contact</h4>
+            <ul>
+              <li><a href="tel:0643555075">06 43 555 075</a></li>
+              <li><a href="mailto:marlous@jardindemonchy.nl">marlous@jardindemonchy.nl</a></li>
+              <li><span>Woerdense Verlaat</span></li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="footer-social">
+          
+          <div class="footer-social-links">
+            <a href="https://www.instagram.com/jardindemonchy/" target="_blank" aria-label="Instagram">
+              <svg viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+              </svg>
+            </a>
+            <a href="https://wa.me/31643555075" target="_blank" aria-label="WhatsApp">
+              <svg viewBox="0 0 24 24" fill="currentColor">
+                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+              </svg>
+            </a>
+            <a href="https://pinterest.com/jardindemonchy/" target="_blank" aria-label="Pinterest">
+              <svg viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 0a12 12 0 0 0-4.373 23.178c-.07-.937-.134-2.377.028-3.401.146-.926.943-3.996.943-3.996s-.241-.481-.241-1.192c0-1.117.648-1.951 1.455-1.951.686 0 1.017.515 1.017 1.132 0 .69-.44 1.722-.667 2.678-.19.802.402 1.456 1.193 1.456 1.432 0 2.533-1.51 2.533-3.687 0-1.928-1.386-3.275-3.367-3.275-2.293 0-3.639 1.72-3.639 3.498 0 .693.267 1.436.6 1.84a.24.24 0 0 1 .056.23c-.061.256-.198.802-.225.914-.035.146-.116.177-.268.107-1-.465-1.624-1.926-1.624-3.1 0-2.523 1.834-4.84 5.286-4.84 2.775 0 4.932 1.977 4.932 4.62 0 2.757-1.739 4.976-4.151 4.976-.811 0-1.573-.421-1.834-.919l-.498 1.902c-.181.695-.669 1.566-.995 2.097A12 12 0 1 0 12 0z"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <span>© 2026 Jardin de Monchy</span>
+        <a href="https://jardindemonchy.nl/wp-content/uploads/2026/01/Algemene-voorwaarden-Jardin-de-Monchy.pdf" target="_blank">Algemene voorwaarden</a>
+        <span>KvK: 97354856</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleNav() {
+      document.getElementById('navLinks').classList.toggle('active');
+    }
+  </script>
+</body>
+</html>

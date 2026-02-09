@@ -1,0 +1,11 @@
+{
+  "name": "jardin-de-monchy",
+  "version": "1.0.0",
+  "description": "Jardin de Monchy - Tuinontwerp website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Westveen",
+  "license": "UNLICENSED"
+}

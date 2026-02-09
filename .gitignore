@@ -1,0 +1,9 @@
+# Source images (te groot voor git - bewaar lokaal of in cloud storage)
+images/_source/
+
+# OS bestanden
+.DS_Store
+Thumbs.db
+
+# Node modules (indien van toepassing)
+node_modules/

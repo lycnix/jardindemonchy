@@ -1,0 +1,14 @@
+name = "jardindemonchy"
+type = "javascript"
+main = "server.js"
+compatibility_date = "2024-12-11"
+
+[env.production]
+routes = [
+  { pattern = "jardindemonchy.nl", zone_id = "" },
+  { pattern = "www.jardindemonchy.nl", zone_id = "" }
+]
+
+[build]
+command = "echo 'Static site - no build needed'"
+cwd = "."

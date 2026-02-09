@@ -1,0 +1,47 @@
+# Original filename -> New SEO filename -> Alt text
+# Format: old|new|alt
+
+# Portraits
+portraits/marlous-1.png|marlous-tuinontwerper-kruiwagen-landelijke-tuin|Tuinontwerper Marlous loopt met kruiwagen door landelijke tuin met bloeiende bomen
+
+# Gallery - Marlous/People
+gallery/DSC06796.png|tuinontwerper-draagt-siergrassen-border-aanleg|Tuinontwerper draagt krat met siergrassen door tuin met vers aangelegde borders
+gallery/DSC05881.png|vrouw-gestreepte-trui-tuincentrum-planten|Vrouw in rood-wit gestreepte trui loopt door tuincentrum met vaste planten
+gallery/ef9ed1b1-4a36-4ce1-b65e-e506789942fc.png|vrouw-vlinderstruik-tuincentrum|Lachende vrouw houdt vlinderstruik vast in tuincentrum
+gallery/DSC09848.jpg|meisje-herfsttuin-hortensia-verbena|Meisje tussen bloeiende hortensia en verbena in herfsttuin
+
+# Gallery - Flowers/Plants
+gallery/DSC06812.png|witte-gaura-bloemen-roze-tuin|Witte gaura bloemen met roze accenten in de tuin
+gallery/DSC06820.png|paarse-lavendel-bloeiend-zomertuin|Paarse lavendelbloemen in bloei in zomerse tuin
+gallery/DSC06229.jpg|paarse-viooltjes-terracotta-pot|Paarse viooltjes in terracotta pot op tuintafel
+gallery/DSC08089.jpg|paarse-heide-bloeiend-zomertuin|Bloeiende paarse heide in zomerse tuin
+gallery/DSC09469.jpg|spinnenweb-dahlia-ochtendlicht|Spinnenweb tussen tuinplanten met roze dahlia
+
+# Gallery - Other images (need to be analyzed)
+gallery/DSC06201.jpg|tuinontwerp-border-planten|Tuinborder met bloeiende planten
+gallery/DSC06202.jpg|tuinontwerp-groene-border|Groene tuinborder met vaste planten
+gallery/DSC06237.jpg|tuinontwerp-sfeerbeeld|Sfeerbeeld van aangelegde tuin
+gallery/DSC06240.jpg|tuinontwerp-overzicht-tuin|Overzicht van ontworpen tuin
+gallery/DSC06959.jpg|tuinontwerp-bloemen-detail|Detail van bloemen in tuinontwerp
+gallery/DSC08102-1.jpg|tuinontwerp-border-detail|Detail van tuinborder
+gallery/DSC08137.jpg|tuinontwerp-planten-sfeer|Sfeerbeeld met tuinplanten
+gallery/DSC08152.jpg|tuinontwerp-tuin-impressie|Impressie van tuinontwerp
+gallery/DSC08190.jpg|tuinontwerp-border-aanleg|Aangelegde tuinborder
+gallery/DSC09470.jpg|tuinontwerp-natuurlijke-tuin|Natuurlijke tuin met vaste planten
+gallery/DSC09842.jpg|tuinontwerp-herfsttuin|Herfsttuin met bloeiende planten
+gallery/IMG_9431.jpg|tuinontwerp-project-impressie|Impressie van tuinproject
+gallery/tuin-border-1-scaled.jpg|tuinborder-bloeiende-planten|Tuinborder met bloeiende vaste planten
+gallery/tuin-border-2-scaled.jpg|tuinborder-siergrassen|Tuinborder met siergrassen
+gallery/tuin-detail-1.jpg|tuin-detail-bloemen|Detail van bloemen in tuin
+gallery/tuin-detail-2.jpg|tuin-detail-planten|Detail van planten in tuin
+gallery/tuin-overzicht-1.jpg|tuin-overzicht-ontwerp|Overzicht van tuinontwerp
+gallery/tuin-sfeer-1.jpg|tuin-sfeerbeeld-groen|Sfeerbeeld van groene tuin
+
+# UUIDs - generic names based on typical content
+gallery/0ED950E0-C800-4A88-B315-62D70B784641.jpg|tuinproject-impressie-1|Impressie van tuinproject
+gallery/29D61659-1426-4F73-9BEE-73F88D626DBD.jpg|tuinproject-impressie-2|Impressie van tuinproject
+gallery/3116F3C1-EBF7-4609-89E9-37CA561E7FF3.jpg|tuinproject-impressie-3|Impressie van tuinproject
+gallery/6C470D93-422B-4C8F-8609-95D6C8581ACD.jpg|tuinproject-impressie-4|Impressie van tuinproject
+gallery/936817EA-FC7C-46E6-BDCC-2BB443563D0E.jpg|tuinproject-impressie-5|Impressie van tuinproject
+gallery/B1E8B218-044B-4175-BC2A-85D11AF06599.jpg|tuinproject-impressie-6|Impressie van tuinproject
+gallery/C950B3B9-8747-48D6-8D41-CA51C0C22C2D.jpg|tuinproject-impressie-7|Impressie van tuinproject
