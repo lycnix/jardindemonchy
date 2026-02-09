@@ -1059,12 +1059,15 @@ footer {
   
   .footer-logo-section {
     align-items: center;
+    justify-content: center;
     width: 100%;
   }
   
   .footer-logo-img {
     margin: 0 auto;
     display: block;
+    max-width: 280px;
+    width: 100%;
   }
   
   .footer-nav {
