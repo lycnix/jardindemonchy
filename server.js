@@ -34,6 +34,14 @@ const server = http.createServer((req, res) => {
   fs.readFile(filePath, (err, content) => {
     if (err) {
       if (err.code === 'ENOENT') {
+        // Only serve index.html fallback for HTML-like requests (SPA routing)
+        // Don't fallback for asset requests (images, css, js, etc)
+        const isAssetRequest = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.css', '.js', '.woff', '.woff2', '.pdf', '.ico'].includes(ext);
+        if (isAssetRequest) {
+          res.writeHead(404, { 'Cache-Control': 'no-cache' });
+          res.end('Not Found');
+          return;
+        }
         fs.readFile(path.join(__dirname, 'index.html'), (err2, content2) => {
           if (err2) {
             res.writeHead(404);
@@ -51,9 +59,10 @@ const server = http.createServer((req, res) => {
         res.end('Server Error');
       }
     } else {
+      const isAsset = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.woff', '.woff2', '.css', '.js', '.pdf'].includes(ext);
       res.writeHead(200, { 
         'Content-Type': contentType,
-        'Cache-Control': 'no-cache, no-store, must-revalidate'
+        'Cache-Control': isAsset ? 'public, max-age=86400' : 'no-cache, no-store, must-revalidate'
       });
       res.end(content);
     }
